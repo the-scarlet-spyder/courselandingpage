@@ -33,7 +33,7 @@ const Home = () => {
                 <span className="text-primary">Future-Ready Professional</span>
               </h1>
               <p className="text-xl text-white/80 max-w-2xl mx-auto leading-relaxed">
-                Explore 19 expertly designed programs to boost your skills in Facility Management, HR, Innovation, and more.
+                Explore expertly designed programs to boost your skills in Facility Management, HR, Innovation, and more.
               </p>
             </div>
 
